@@ -1,4 +1,4 @@
-# DissectingMarineFishRichness
+# Dissecting Marine Fish Richness
 
 This repository contains code associated with an analysis of the Reef Life Survey (see [reeflifesurvey.com](https://reeflifesurvey.com/)).
 We dissect species richness into component patterns of the total abundance of individuals, the relative abundance of species and their spatial aggregations at multiple scales to show that the latitudinal and longitudinal gradients of reef fish richness emerge from divergent scale-dependent component patterns. 
